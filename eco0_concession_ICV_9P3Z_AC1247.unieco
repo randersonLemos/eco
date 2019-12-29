@@ -42,7 +42,7 @@
       <wellCost type="drilling"   name="*" value="2.340E7"/>
       <wellCost type="completion" name="*" value="2.694E7"/>
       <wellCost type="connection" name="*" value="1.330E7"/>
-      <wellCost type="2icv"       name="*" value="1.300E6"/>
+      <!-- <wellCost type="2icv"       name="*" value="1.300E6"/> -->
       <wellCost type="3icv"       name="*" value="1.600E6"/>
     </wellCostList>
 
