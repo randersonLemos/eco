@@ -18,6 +18,10 @@
   <field type="offshore">
     <oil type="brent"/>
 
+    <fieldCostList>
+      <fieldCost type="abandonment" value="7710434.099827550" name="FIELD"/>
+    </fieldCostList>
+
     <platformCostList>
       <platformCost type="fixed"    value="417.0"		   name="PLATFORM"/>
  	    <platformCost type="cpl"      value="0.00315"		 name="PLATFORM"/>
@@ -28,10 +32,6 @@
  	    <platformCost type="cig"      value="0"	         name="PLATFORM"/>
  	    <platformCost type="slotUnit" value="0.1"			   name="PLATFORM"/>
     </platformCostList>
-
-    <fieldCostList>
-      <fieldCost type="abandonment" value="7710434.099827550" name="FIELD"/>
-    </fieldCostList>
 
     <manifoldCostList>
       <manifoldCost type="installation" value="0" name="PRODUCTION"/>
