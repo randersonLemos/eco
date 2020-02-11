@@ -8,7 +8,6 @@
 
   <market>
     <discountRate value="0.09"/>
-    <!-- <abandonmentRate value="0.082"/> -->
     <priceList>
       <price phase="oil" value="257.9" time="0"/>
       <price phase="gas" value="0.0"   time="0"/>
